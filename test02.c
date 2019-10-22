@@ -8,3 +8,4 @@ int main(void)
     printf("distance is %d\n", distance);
     return 0;
 }
+   
